@@ -1,0 +1,13 @@
+.container{
+  background-color: aliceblue;;
+    width: calc(100% - 180px);
+    margin-top: 10px;
+    maxWidth: '100%';
+     maxHeight: '400px';
+}
+h1{
+  text-align: center;
+}
+.loading-spinner{
+  text-align: center;
+}
